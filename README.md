@@ -1,4 +1,4 @@
-# Sagor Sarker - Modern Portfolio with AI Chatbot
+# Sagor Sarker (Client) - Modern Portfolio
 
 [![GitHub](https://img.shields.io/github/license/hey-ashik/Client_Modern-Portfolio_with_AI-chatbot?color=orange)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-Modern-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -130,3 +130,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful! Connect with Sagor via the site's social links.
 
 *Built with ❤️ for modern web experiences.*
+
